@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khizarkamal 
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React and Express
+- 👀 Software Developer
+- 🌱 Proficient in Front-end Development.
 - 💞️ I’m looking to collaborate on Web based projects
 - 📫 khizarkamal0314@gmail.com
 
